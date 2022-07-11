@@ -12,6 +12,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.google.accompanist.pager.ExperimentalPagerApi
 import compose.material.theme.ui.theme.Material3ComposeTheme
 
+/*
+https://www.boltuix.com/2022/07/walkthrough-onboarding-screen-in.html
+* */
 class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalPagerApi::class)
     override fun onCreate(savedInstanceState: Bundle?) {
