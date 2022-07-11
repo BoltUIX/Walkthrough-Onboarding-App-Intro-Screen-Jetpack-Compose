@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App intro</string>
+
+    <string name="onBoardingTitle1">Capture the moment</string>
+    <string name="onBoardingText1">You are not alone. You have unique \n ability to go to another world</string>
+
+    <string name="onBoardingTitle2">Live The life</string>
+    <string name="onBoardingText2">In daily lives, we often rush our tasks \n trying get them finish</string>
+
+    <string name="onBoardingTitle3">Play the beat</string>
+    <string name="onBoardingText3">Most beginner producers learn make \n creating by simple beats</string>
+
+</resources>
